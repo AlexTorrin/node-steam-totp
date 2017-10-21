@@ -3,9 +3,9 @@
 	"version": "2.0.1",
 	"description": "Generate Steam-style TOTP codes given a secret",
 	"keywords": ["steam", "steam client", "steam guard"],
-	"homepage": "https://github.com/DoctorMcKay/node-steam-totp",
+	"homepage": "https://github.com/AlexTorrin/node-steam-totp",
 	"bugs": {
-		"url": "https://github.com/DoctorMcKay/node-steam-totp/issues"
+		"url": "https://github.com/AlexTorrin/node-steam-totp/issues"
 	},
 	"license": "MIT",
 	"author": {
